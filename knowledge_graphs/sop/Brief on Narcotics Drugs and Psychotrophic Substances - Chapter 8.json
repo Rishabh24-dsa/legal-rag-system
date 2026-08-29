@@ -1,0 +1,2349 @@
+{
+  "triples": [
+    [
+      "narcotic drugs and psychotropic substances (ndps)",
+      "defines",
+      "narcotic as opiate, cannabis or cocaine"
+    ],
+    [
+      "narcotic drugs and psychotropic substances (ndps)",
+      "defines",
+      "psychotropic substance as mind-altering drugs such as lsd, phencyclidine, amphetamines, barbiturates, methaqualone, and designer drugs like mdma, dmt etc."
+    ],
+    [
+      "opium",
+      "is classified as",
+      "narcotic"
+    ],
+    [
+      "morphine",
+      "is classified as",
+      "narcotic"
+    ],
+    [
+      "morphine",
+      "is classified as",
+      "phenanthrene alkaloids"
+    ],
+    [
+      "morphine",
+      "is listed under",
+      "ndps act section 20(c)(a)"
+    ],
+    [
+      "heroin",
+      "is classified as",
+      "narcotic"
+    ],
+    [
+      "heroin",
+      "is listed under",
+      "ndps act section 20(d)"
+    ],
+    [
+      "heroin",
+      "has illicit forms of",
+      "pure grade iv heroin–fairly refined"
+    ],
+    [
+      "heroin",
+      "is listed under",
+      "ndps act section 20(b)(ii)(c)"
+    ],
+    [
+      "barbiturates",
+      "are classified as",
+      "depressants"
+    ],
+    [
+      "tranquilizers",
+      "are classified as",
+      "depressants"
+    ],
+    [
+      "amphetamine",
+      "is classified as",
+      "stimulant"
+    ],
+    [
+      "cocaine",
+      "is classified as",
+      "stimulant"
+    ],
+    [
+      "cocaine",
+      "is classified as",
+      "narcotic drug"
+    ],
+    [
+      "cocaine",
+      "is listed under",
+      "ndps act section 2(vi)"
+    ],
+    [
+      "lsd",
+      "is classified as",
+      "hallucinogen"
+    ],
+    [
+      "lsd",
+      "is classified as",
+      "narcotic substance"
+    ],
+    [
+      "charas, ganja",
+      "are classified as",
+      "hallucinogens"
+    ],
+    [
+      "mescaline",
+      "is classified as",
+      "hallucinogen"
+    ],
+    [
+      "cannabis (hemp)",
+      "is also known by",
+      "charas"
+    ],
+    [
+      "cannabis (hemp)",
+      "is also known by",
+      "ganja"
+    ],
+    [
+      "charas",
+      "includes",
+      "separated resin, in whatever form, whether crude or purified, obtained from the cannabis plant and also includes concentrated preparation and resin known as hashish oil or liquid hashish"
+    ],
+    [
+      "charas",
+      "includes",
+      "concentrated preparation and resin known as hashish oil or liquid hashish"
+    ],
+    [
+      "ganja",
+      "means",
+      "the flowering or fruiting tops of the cannabis plant (excluding the seeds and leaves when not accompanied by the tops), by whatever name they may be known or designated"
+    ],
+    [
+      "ganja",
+      "includes",
+      "any mixture, with or without any neutral material, of any of the above forms of cannabis or any drink prepared there from"
+    ],
+    [
+      "ganja",
+      "is source of",
+      "cannabis"
+    ],
+    [
+      "cannabis plant",
+      "means",
+      "any plant of the genus cannabis"
+    ],
+    [
+      "coca derivative",
+      "means",
+      "crude cocaine, that is, any extract of coca leaf which can be used, directly or indirectly, for the manufacture of cocaine"
+    ],
+    [
+      "coca leaf",
+      "is listed under",
+      "ndps act section 2(iv)(a)"
+    ],
+    [
+      "erythroxylon",
+      "means",
+      "coca plant"
+    ],
+    [
+      "ecgonine and all the derivatives of ecgonine",
+      "are included in",
+      "narcotic drug"
+    ],
+    [
+      "methyl ester of benzoyl-ecgonine",
+      "is a salt of",
+      "cocaine"
+    ],
+    [
+      "benzoyl-ecgonine",
+      "is a derivative of",
+      "ecgonine"
+    ],
+    [
+      "0.1 percent of cocaine",
+      "is the threshold for inclusion in",
+      "preparations under ndps act section 2(iv)(d)"
+    ],
+    [
+      "opium poppy",
+      "is source of",
+      "coagulated juice"
+    ],
+    [
+      "opium poppy",
+      "means",
+      "the plant of the species papaver somniferum l."
+    ],
+    [
+      "coagulated juice of opium poppy",
+      "does not include",
+      "preparation containing more than 0.2 per cent morphine"
+    ],
+    [
+      "opium derivative",
+      "means",
+      "medicinal opium"
+    ],
+    [
+      "medicinal opium",
+      "is adapted for medicinal use in accordance with",
+      "indian pharmacopoeia or other notified pharmacopoeia"
+    ],
+    [
+      "prepared opium",
+      "is product of",
+      "any series of operations designed to transform opium into an extract suitable for smoking"
+    ],
+    [
+      "diacetylmorphine",
+      "is also known as",
+      "heroin"
+    ],
+    [
+      "poppy straw",
+      "means",
+      "all parts (except the seeds) of the opium poppy after harvesting"
+    ],
+    [
+      "opium pod",
+      "is classified as",
+      "narcotic drug"
+    ],
+    [
+      "morphine powder",
+      "ranges in colour from",
+      "off-white to dark brown"
+    ],
+    [
+      "brown sugar",
+      "is an illicit form of",
+      "heroin"
+    ],
+    [
+      "grade iii heroin",
+      "is an illicit form of",
+      "heroin"
+    ],
+    [
+      "brown sugar iranian",
+      "is an illicit form of",
+      "heroin"
+    ],
+    [
+      "ndps act section 41",
+      "mandates",
+      "issuance of warrant and authorization"
+    ],
+    [
+      "metropolitan magistrate",
+      "may issue",
+      "warrant under ndps act section 41"
+    ],
+    [
+      "magistrate of the first class",
+      "may issue",
+      "warrant under ndps act section 41"
+    ],
+    [
+      "magistrate of the second class",
+      "is specially empowered by state government to issue",
+      "warrant under ndps act section 41"
+    ],
+    [
+      "officer",
+      "has reason to believe",
+      "committed an offence punishable under this act"
+    ],
+    [
+      "officer",
+      "searches",
+      "building/conveyance/place where narcotic drug or psychotropic substance is kept"
+    ],
+    [
+      "officer",
+      "may authorize",
+      "any subordinate officer"
+    ],
+    [
+      "officer",
+      "shall have powers of an officer under section 42",
+      "when acting on warrant"
+    ],
+    [
+      "officer",
+      "has reason to believe",
+      "committed any offence punishable under this act"
+    ],
+    [
+      "officer",
+      "may enter and search",
+      "building, conveyance or enclosed place"
+    ],
+    [
+      "officer",
+      "may arrest",
+      "person whom he has reason to believe to have committed any offence punishable under this act"
+    ],
+    [
+      "officer",
+      "may enter and search",
+      "building"
+    ],
+    [
+      "officer",
+      "may enter and search",
+      "conveyance"
+    ],
+    [
+      "officer",
+      "may enter and search",
+      "enclosed place"
+    ],
+    [
+      "officer",
+      "at any time between sunset and sunrise",
+      "searches building, conveyance or enclosed place"
+    ],
+    [
+      "officer",
+      "after recording the grounds of his belief",
+      "enters and searches building, conveyance or enclosed place"
+    ],
+    [
+      "officer",
+      "shall take person to nearest gazetted officer",
+      "under section 50(1)"
+    ],
+    [
+      "officer",
+      "may detain person until brought before gazetted officer or magistrate",
+      "under section 50(2)"
+    ],
+    [
+      "officer",
+      "shall record reasons for search",
+      "under section 100 code of criminal procedure, 1973"
+    ],
+    [
+      "officer",
+      "shall send copy to immediate official superior",
+      "within seventy two hours"
+    ],
+    [
+      "officer",
+      "should obtain authorization for search as per",
+      "sec. 41(2) ndps act"
+    ],
+    [
+      "officer",
+      "discloses identity and purpose of search to; offers themselves to be searched by",
+      "person"
+    ],
+    [
+      "officer",
+      "should keep note that statement was read out and explained",
+      "statement"
+    ],
+    [
+      "officer",
+      "has to comply with other provisions of section 52 regarding arrested persons and seized article",
+      "section 52 ndps act"
+    ],
+    [
+      "narcotic drug/psychotropic substance/controlled substance",
+      "is seized",
+      "officer"
+    ],
+    [
+      "document/article",
+      "furnishes evidence of commission of offence",
+      "officer"
+    ],
+    [
+      "illegally acquired property",
+      "is liable for seizure/freezing/forfeiture",
+      "officer"
+    ],
+    [
+      "illegally acquired property",
+      "is liable for freezing or forfeiture under",
+      "chapter v a of ndps act"
+    ],
+    [
+      "officer of gazetted rank",
+      "is empowered by",
+      "central government"
+    ],
+    [
+      "central government",
+      "specifies",
+      "quantity for commercial quantity in official gazette"
+    ],
+    [
+      "central government",
+      "specifies",
+      "quantity for small quantity in official gazette"
+    ],
+    [
+      "central government",
+      "may declare",
+      "any substance to be a controlled substance under section 2 ndps act"
+    ],
+    [
+      "officer of revenue, drugs control, excise, police or other department",
+      "is empowered by",
+      "state government"
+    ],
+    [
+      "officer of central government",
+      "has reason to believe",
+      "person has committed an offence punishable under this act"
+    ],
+    [
+      "officer of state government",
+      "has reason to believe",
+      "person has committed an offence punishable under this act"
+    ],
+    [
+      "subordinate officer",
+      "has power to arrest",
+      "person keeping or concealing evidence"
+    ],
+    [
+      "person",
+      "is liable for arrest and search",
+      "if keeping or concealing evidence"
+    ],
+    [
+      "person",
+      "may requisition",
+      "gazetted officer under section 50(1)"
+    ],
+    [
+      "person",
+      "has right to search officer if required; has right to take physical search of officer conducting search",
+      "officer"
+    ],
+    [
+      "person",
+      "liable to be punished under",
+      "ndps act"
+    ],
+    [
+      "building, conveyance or place",
+      "may be searched",
+      "under warrant from superior officer"
+    ],
+    [
+      "section 42 ndps act",
+      "mandates",
+      "power of entry, search, seizure and arrest without warrant"
+    ],
+    [
+      "section 42 ndps act",
+      "authorizes",
+      "officer to conduct search under section 41, 42 or 43"
+    ],
+    [
+      "section 42 ndps act",
+      "mandates sending a copy of reasons to immediate superior officer; mandates reducing information in writing and sending copy to superior officer",
+      "superior officer"
+    ],
+    [
+      "officer superior to peon/sepoy/constable",
+      "is empowered by",
+      "central government"
+    ],
+    [
+      "officer superior to peon/sepoy/constable",
+      "is empowered by",
+      "state government"
+    ],
+    [
+      "revenue intelligence officer",
+      "is empowered by",
+      "general order of central government"
+    ],
+    [
+      "narcotics officer",
+      "is empowered by",
+      "special order of state government"
+    ],
+    [
+      "any person",
+      "provided information to",
+      "ncb"
+    ],
+    [
+      "information given by any person",
+      "was recorded in writing as",
+      "written record"
+    ],
+    [
+      "narcotic drug, psychotropic substance, or controlled substance",
+      "is liable for seizure under",
+      "chapter v a of ndps act"
+    ],
+    [
+      "document or article furnishing evidence of offence",
+      "may be seized under",
+      "chapter v a of ndps act"
+    ],
+    [
+      "building, conveyance, or enclosed place",
+      "may contain contraband under",
+      "ndps act section 52(a)"
+    ],
+    [
+      "ncb officer",
+      "has authority to enter and search",
+      "any building, conveyance, or place"
+    ],
+    [
+      "ncb officer",
+      "may break open doors and remove obstacles if resisted",
+      "under ndps act section 52(b)"
+    ],
+    [
+      "section 50 ndps act",
+      "mandates",
+      "presence of gazetted officer during personal search"
+    ],
+    [
+      "section 50 ndps act",
+      "mandates",
+      "no need of notice for spontaneous production of contraband"
+    ],
+    [
+      "section 50 ndps act",
+      "requires; mandates",
+      "personal search in presence of gazetted officer"
+    ],
+    [
+      "section 50 ndps act",
+      "mandates",
+      "presence of independent witnesses during search"
+    ],
+    [
+      "section 50 ndps act",
+      "mandates",
+      "written notice to occupants of premises or person intercepted at public place"
+    ],
+    [
+      "section 50 ndps act",
+      "requires",
+      "response to written notice recorded in writing"
+    ],
+    [
+      "section 50 ndps act",
+      "mandates giving option of search by gazetted officer/a magistrate to accused",
+      "accused"
+    ],
+    [
+      "gazetted officer",
+      "mandates",
+      "personal search in presence of magistrate"
+    ],
+    [
+      "magistrate",
+      "mandates",
+      "discharge if no reasonable ground for search"
+    ],
+    [
+      "magistrate",
+      "issued warrant under subsection (1) of section 41",
+      "article seized and person arrested"
+    ],
+    [
+      "female",
+      "shall not be searched by",
+      "male except female"
+    ],
+    [
+      "authorized officer under section 42",
+      "mandates",
+      "record reasons for search after conducting"
+    ],
+    [
+      "section 52 ndps act",
+      "mandates",
+      "informing person arrested of grounds for arrest"
+    ],
+    [
+      "person arrested",
+      "shall be informed of grounds for arrest",
+      "by officer under section 41, 42, 43 or 44"
+    ],
+    [
+      "person arrested",
+      "should be informed of grounds for arrest as per sec. 52(1) ndps act",
+      "grounds for arrest"
+    ],
+    [
+      "person arrested",
+      "should be served memo under his dated signature",
+      "memo"
+    ],
+    [
+      "article seized",
+      "shall be forwarded to magistrate",
+      "without unnecessary delay"
+    ],
+    [
+      "every person",
+      "shall be forwarded to",
+      "the officer-in-charge of the nearest police station"
+    ],
+    [
+      "every person",
+      "shall be forwarded to",
+      "the officer empowered under section 53"
+    ],
+    [
+      "the authority or officer",
+      "shall take measures for disposal according to law",
+      "such person or article"
+    ],
+    [
+      "an officer-in-charge of a police station",
+      "shall take charge of and keep in safe custody",
+      "all articles seized under this act within the local area of that police station"
+    ],
+    [
+      "section 57 ndps act",
+      "mandates",
+      "report within forty-eight hours"
+    ],
+    [
+      "officer-in-charge of the police station",
+      "shall allow",
+      "officer to affix seal or take samples"
+    ],
+    [
+      "samples taken by officer",
+      "shall be sealed with",
+      "seal of officer-in-charge of the police station"
+    ],
+    [
+      "person making arrest or seizure",
+      "shall make report within forty-eight hours",
+      "to immediate superior"
+    ],
+    [
+      "io (investigating officer)",
+      "should follow guidelines and make notes in writing",
+      "ruqqa"
+    ],
+    [
+      "raiding party's constitution",
+      "should be noted by io",
+      "in ruqqa"
+    ],
+    [
+      "departure of raiding party",
+      "should be noted by io",
+      "in ruqqa"
+    ],
+    [
+      "route taken by raiding party",
+      "should be noted by io",
+      "in ruqqa"
+    ],
+    [
+      "name of driver and informer",
+      "should be noted by io",
+      "in ruqqa"
+    ],
+    [
+      "driver",
+      "was accompanied by",
+      "informer"
+    ],
+    [
+      "independent public witness",
+      "requested to join",
+      "ncb delhi unit"
+    ],
+    [
+      "independent public witness",
+      "is a resident of",
+      "location (not specified)"
+    ],
+    [
+      "independent public witness",
+      "was a passer-by",
+      "true"
+    ],
+    [
+      "ncb delhi unit",
+      "raided at",
+      "andheri railway station on 2024-02-10"
+    ],
+    [
+      "time of making dd entry",
+      "must be noted at",
+      "time (not specified)"
+    ],
+    [
+      "constitution of raiding party",
+      "must be noted at",
+      "time (not specified)"
+    ],
+    [
+      "contraband",
+      "must be checked through by field-testing kit; must be described in writing (ruqqa) as well as in seizure memo; must have complete description of packing/wrappers/marking",
+      "section 50 ndps act"
+    ],
+    [
+      "contraband",
+      "must be checked through by",
+      "field-testing kit"
+    ],
+    [
+      "field-testing kit",
+      "is used for",
+      "checking contraband"
+    ],
+    [
+      "sampling",
+      "should be done properly with",
+      "two representative samples taken"
+    ],
+    [
+      "cfsl/fsl/crcl form",
+      "must be filled in instantaneously after",
+      "sampling"
+    ],
+    [
+      "ndps act",
+      "mandates",
+      "challan must be filed within 60 days for less than commercial quantity"
+    ],
+    [
+      "ndps act",
+      "mandates",
+      "challan may be filled in 90 days but efforts should be to file the challan at the earliest for commercial quantity"
+    ],
+    [
+      "ndps act",
+      "mandates",
+      "presence of gazetted officer during personal search"
+    ],
+    [
+      "ndps act",
+      "mandates",
+      "notification of s.o. 1055(e) dated 19-10-2001"
+    ],
+    [
+      "ndps act",
+      "covers",
+      "narcotic drugs or psychotropic substances"
+    ],
+    [
+      "sample",
+      "must be sent to laboratory for chemical analysis",
+      "at the earliest"
+    ],
+    [
+      "sho",
+      "should be aware of",
+      "sample being sent to laboratory for chemical analysis"
+    ],
+    [
+      "diary dispatch entries",
+      "must be attested by",
+      "gazetted officer"
+    ],
+    [
+      "site plan",
+      "must be described, prepared and elaborated",
+      "every minute detail of the scene"
+    ],
+    [
+      "suspect's previous involvements in drug trafficking",
+      "must be mentioned in challan",
+      "to enable court for awarding enhanced punishment"
+    ],
+    [
+      "vehicle",
+      "is used for",
+      "written work and seizure"
+    ],
+    [
+      "stool or chair",
+      "should be arranged by",
+      "io/witnesses"
+    ],
+    [
+      "constable",
+      "should not make any search",
+      "ndps act prohibits"
+    ],
+    [
+      "parcels",
+      "should be signed by",
+      "witnesses"
+    ],
+    [
+      "seizure",
+      "should be weighed on the spot",
+      "details of weighing balance must be noted"
+    ],
+    [
+      "weighing balance",
+      "should be arranged from",
+      "official sources and number of weights must be noted"
+    ],
+    [
+      "log book",
+      "should be completed for vehicle used",
+      "sho/addl.sho/ios must note details"
+    ],
+    [
+      "written work",
+      "should be done by",
+      "known to io/witnesses"
+    ],
+    [
+      "seal",
+      "should be issued officially at the time of raid",
+      "sho/addl.sho/ios must get official seal"
+    ],
+    [
+      "seal",
+      "is required for sealing evidence",
+      "none"
+    ],
+    [
+      "registers",
+      "should have separate registers in office of sho, acp and dcp",
+      "date and details of seizure must be noted"
+    ],
+    [
+      "n.d.p.s. act",
+      "mandates",
+      "separate registers for dispatch and receipt of reports"
+    ],
+    [
+      "sho's office",
+      "should maintain",
+      "register for dispatch and receipt of reports"
+    ],
+    [
+      "acp's office",
+      "should maintain",
+      "register for dispatch and receipt of reports"
+    ],
+    [
+      "dcp's office",
+      "should maintain",
+      "register for dispatch and receipt of reports"
+    ],
+    [
+      "search proforma",
+      "is required to be taken before operation",
+      "none"
+    ],
+    [
+      "form of notice under sec. 67 of the ndps act",
+      "is required to be taken before operation",
+      "none"
+    ],
+    [
+      "arrest memo",
+      "is required to be taken before operation",
+      "none"
+    ],
+    [
+      "test memo",
+      "is required to be taken before operation",
+      "none"
+    ],
+    [
+      "test memo",
+      "prepared in triplicate on the spot",
+      "with facsimile imprint of seal used in sealing sample envelopes"
+    ],
+    [
+      "envelopes",
+      "are required for operation",
+      "none"
+    ],
+    [
+      "sealing materials",
+      "are required for sealing evidence",
+      "none"
+    ],
+    [
+      "writing paper",
+      "is required for documentation",
+      "none"
+    ],
+    [
+      "candles",
+      "are required for lighting",
+      "none"
+    ],
+    [
+      "matchsticks",
+      "are required for lighting",
+      "none"
+    ],
+    [
+      "spring balance",
+      "is required for weighing",
+      "none"
+    ],
+    [
+      "digital weighing machine",
+      "is required for weighing",
+      "none"
+    ],
+    [
+      "drug identification/test kit",
+      "must be taken with officers on operation",
+      "none"
+    ],
+    [
+      "two independent witnesses",
+      "are required for",
+      "search under section 50 ndps act"
+    ],
+    [
+      "search list (mahazar/panchanama)",
+      "is prepared after",
+      "conclusion of the search"
+    ],
+    [
+      "drugs or things or documents recovered",
+      "are mentioned in",
+      "search list"
+    ],
+    [
+      "search list",
+      "should bear signatures of; should mention name, addresses, etc. of",
+      "person"
+    ],
+    [
+      "search list",
+      "should bear signatures of; should mention name, addresses, etc. of",
+      "owner/owner's representative"
+    ],
+    [
+      "search list",
+      "should bear signatures of; should mention name, addresses, etc. of",
+      "witnesses"
+    ],
+    [
+      "place of recovery",
+      "is invariably mentioned in",
+      "search list"
+    ],
+    [
+      "copy of search list",
+      "is handed over to",
+      "agent/owner/occupier of premises"
+    ],
+    [
+      "copy of search list",
+      "should bear dated signature of",
+      "whom it has been served"
+    ],
+    [
+      "personal search list",
+      "is prepared separately for",
+      "personal searches during premises search"
+    ],
+    [
+      "sample of narcotic drugs/psychotropic substances",
+      "should be drawn in presence of",
+      "owner"
+    ],
+    [
+      "sample of narcotic drugs/psychotropic substances",
+      "should be drawn in presence of",
+      "occupier"
+    ],
+    [
+      "sample of narcotic drugs/psychotropic substances",
+      "should be drawn in presence of",
+      "agent"
+    ],
+    [
+      "sample of narcotic drugs/psychotropic substances",
+      "should be drawn in presence of",
+      "witnesses"
+    ],
+    [
+      "samples",
+      "should be sent to laboratory within",
+      "72 hrs"
+    ],
+    [
+      "samples",
+      "were sent to",
+      "notified laboratory for analysis and report within 72 hours"
+    ],
+    [
+      "statements",
+      "are required to be taken from",
+      "suspects (accused) and witnesses"
+    ],
+    [
+      "notice under section 67 ndps act",
+      "may be issued for",
+      "recording statements"
+    ],
+    [
+      "statement",
+      "must be written in language understood by",
+      "suspects/witnesses"
+    ],
+    [
+      "person making statement",
+      "should initial corrections made therein",
+      "himself"
+    ],
+    [
+      "officer present during statement",
+      "should put signature on",
+      "statement"
+    ],
+    [
+      "statement not written by person",
+      "was read out and explained to",
+      "person"
+    ],
+    [
+      "memo",
+      "is token of receipt of same",
+      "token of receipt"
+    ],
+    [
+      "superior officer",
+      "is to be sent a report by",
+      "crime investigator"
+    ],
+    [
+      "report of arrest and seizure",
+      "should be given within",
+      "48 hours"
+    ],
+    [
+      "ndps act section 57",
+      "mandates",
+      "reporting arrest and seizure within 48 hours"
+    ],
+    [
+      "goods seized",
+      "are to be kept in",
+      "godown earmarked for this purpose"
+    ],
+    [
+      "godown officer",
+      "is responsible for verifying the intactness of",
+      "quantity and weight of goods"
+    ],
+    [
+      "register of godown",
+      "should contain details about",
+      "intactness of quantity and weight of goods"
+    ],
+    [
+      "remand petition",
+      "is to be made by",
+      "crime investigator to magistrate/judge of special court"
+    ],
+    [
+      "accused",
+      "is required to be produced before",
+      "court"
+    ],
+    [
+      "accused",
+      "should be given option of being searched by gazetted officer/a magistrate under section 50 of the act",
+      "gazetted officer/a magistrate"
+    ],
+    [
+      "accused",
+      "was disclosed ground of arrest to",
+      "family/friends"
+    ],
+    [
+      "accused",
+      "is identity of",
+      "unknown"
+    ],
+    [
+      "seizing officer",
+      "should go through the documents that are recovered and the statements that have been recorded for deciding the follow-up measures and the course of investigation",
+      "documents and statements"
+    ],
+    [
+      "supervisory officer",
+      "has to be informed in writing regarding follow-up measures and course of investigation",
+      "seizing officer"
+    ],
+    [
+      "financial profile of the accused",
+      "should be prepared while statements are taken from them and also after the offence is investigated",
+      "accused"
+    ],
+    [
+      "order for freezed illegally acquired property as per section 68f (1) of the ndps act",
+      "has to be issued",
+      "competent authority"
+    ],
+    [
+      "copy of the said order",
+      "has to be forwarded to",
+      "competent authority"
+    ],
+    [
+      "powder of different colours",
+      "is classified as",
+      "drug"
+    ],
+    [
+      "drug",
+      "should not be tasted as it could be poison",
+      "none"
+    ],
+    [
+      "liquid hashish and opium dissolved in water",
+      "is classified as",
+      "drug"
+    ],
+    [
+      "syringe",
+      "was used by",
+      "addicts"
+    ],
+    [
+      "addicts",
+      "are investigated for",
+      "drug related offences"
+    ],
+    [
+      "small quantity in puriyas, vials, spoon",
+      "was used by",
+      "addicts"
+    ],
+    [
+      "cardboard boxes containing some items along with polythene packets",
+      "was recovered at",
+      "illicitly manufacturing drug site"
+    ],
+    [
+      "sacks containing lime mixed with drug",
+      "was recovered at",
+      "illicitly manufacturing drug site"
+    ],
+    [
+      "pharmaceutical preparations in wrappers",
+      "was recovered at",
+      "illicitly manufacturing drug site"
+    ],
+    [
+      "brown black resinous material, opium or charas",
+      "is classified as",
+      "drug"
+    ],
+    [
+      "poppy plant",
+      "is source of",
+      "opium"
+    ],
+    [
+      "cocaine leaves containing cocaine",
+      "is source of",
+      "cocaine"
+    ],
+    [
+      "dhoopbatti like sticks of charas",
+      "is classified as",
+      "drug"
+    ],
+    [
+      "the samples must be drawn on the spot of recovery and in the presence of witnesses and the accused",
+      "mandates",
+      "collection of evidences"
+    ],
+    [
+      "the samples must be drawn on the spot of recovery",
+      "in the presence of",
+      "witnesses and the accused"
+    ],
+    [
+      "table 8.2",
+      "mandates",
+      "sampling quantity for ndps"
+    ],
+    [
+      "central revenue control lab",
+      "is source of",
+      "table 8.2"
+    ],
+    [
+      "5g",
+      "is threshold for sampling",
+      "ndps act"
+    ],
+    [
+      "malkhana-in-charge",
+      "must obtain acknowledgement receipt from",
+      "seized goods and samples"
+    ],
+    [
+      "seized goods and samples",
+      "are deposited in",
+      "malkhana at the earliest"
+    ],
+    [
+      "single package",
+      "requires",
+      "net weight to be recorded"
+    ],
+    [
+      "more than one package (i)",
+      "mandates",
+      "all packages should be sampled if less than 10"
+    ],
+    [
+      "more than one package (ii)",
+      "mandates",
+      "randomly select 10 packages if between 10-100"
+    ],
+    [
+      "more than one package (iii)",
+      "mandates",
+      "randomly select a number of packages if more than 100"
+    ],
+    [
+      "packages",
+      "contain",
+      "bulk material"
+    ],
+    [
+      "bulk material",
+      "is found to be similar by visual examination",
+      "in some cases"
+    ],
+    [
+      "ndps act section 20(b)(ii)(c)",
+      "mandates",
+      "random selection of packages for testing"
+    ],
+    [
+      "10-100 packages",
+      "are subject to",
+      "random selection of 10 packages"
+    ],
+    [
+      "more than 100 packages",
+      "are subject to",
+      "random selection equal to square root rounded up"
+    ],
+    [
+      "packages with similar material",
+      "may be combined and homogenized",
+      "under ndps act section 20(b)(ii)(c)"
+    ],
+    [
+      "packages with different types of material",
+      "should be composited in identical fashion",
+      "under ndps act section 20(b)(ii)(c)"
+    ],
+    [
+      "section 8(c) ndps act",
+      "mandates",
+      "sampling procedure for lsd"
+    ],
+    [
+      "sampling procedure for lsd",
+      "requires",
+      "determination of total number of dosage units and average weight per dosage unit (du)"
+    ],
+    [
+      "single container of lsd",
+      "pertains to",
+      "screening all dosage units up to 10du"
+    ],
+    [
+      "sample sizes from 11du to 27du of lsd",
+      "pertains to",
+      "randomly selecting and screening ¾ of all dosage units"
+    ],
+    [
+      "sample sizes from 28du of lsd",
+      "pertains to",
+      "selecting randomly and screening ½ of all dosage units, rounding upward to the next integer"
+    ],
+    [
+      "ndps act section 2",
+      "defines",
+      "commercial quantity as any quantity greater than the quantity specified by the central government"
+    ],
+    [
+      "ndps act section 2",
+      "defines",
+      "small quantity as any quantity lesser than the quantity specified by the central government"
+    ],
+    [
+      "ndps act section 2",
+      "confers powers on",
+      "ministry of finance(department of revenue)"
+    ],
+    [
+      "ndps act section 37",
+      "mandates",
+      "non-bailable"
+    ],
+    [
+      "offences under commercial quantities",
+      "are non-bailable u/s",
+      "ndps act section 37"
+    ],
+    [
+      "ndps act section 20",
+      "mandates",
+      "rigorous imprisonment for a term which may extend to six months"
+    ],
+    [
+      "ndps act section 20",
+      "mandates",
+      "fine which may extend to rs. 10,000"
+    ],
+    [
+      "ndps act section 20",
+      "mandates",
+      "both rigorous imprisonment and fine"
+    ],
+    [
+      "ndps act section 20",
+      "mandates",
+      "collection of sample of different types of drugs, precursor chemicals, and related materials"
+    ],
+    [
+      "ndps act section 21",
+      "mandates",
+      "rigorous imprisonment for a term which may extend to ten years"
+    ],
+    [
+      "ndps act section 21",
+      "mandates",
+      "fine which may extend to rs. 1,00,000"
+    ],
+    [
+      "ndps act section 22",
+      "mandates",
+      "rigorous imprisonment for a term which shall not be less than ten years but which may extend to twenty years"
+    ],
+    [
+      "ndps act section 22",
+      "mandates",
+      "fine which shall not be less than rs. 1,00,000 but which may extend to rs. 2,00,000"
+    ],
+    [
+      "whoever",
+      "consumes any narcotic drug or psychotropic substance",
+      "shall be punishable"
+    ],
+    [
+      "where the narcotic drug or psychotropic substance consumed is cocaine, morphine, diacetyl-morphine or any other narcotic drug or any psychotropic substance as may be specified in this behalf by the central government by notification in the official gazette,",
+      "with rigorous imprisonment for a term which may extend to one year",
+      "or with fine which may extend to rs. 20,000; or with both"
+    ],
+    [
+      "where the narcotic drug or psychotropic substance consumed is other than those specified in or under clause (a),",
+      "with imprisonment for a term which may extend to six months",
+      "or with fine which may extend to rs. 10,000 or with both"
+    ],
+    [
+      "section 27 of ndps act",
+      "mandates",
+      "punishment for consumption of any narcotic drug or psychotropic substance"
+    ],
+    [
+      "section 31 ndps act",
+      "mandates",
+      "enhanced punishment for repeat offenders"
+    ],
+    [
+      "repeat offender",
+      "is liable to",
+      "rigorous imprisonment for one-half of maximum term"
+    ],
+    [
+      "repeat offender",
+      "is also liable to",
+      "fine which extends to one-half of maximum amount"
+    ],
+    [
+      "minimum punishment for person",
+      "shall be one-half of the minimum term of imprisonment",
+      "one-half of the minimum amounts of fine"
+    ],
+    [
+      "court may impose a fine exceeding",
+      "for reasons to be recorded in the judgment",
+      "the fine for which a person is liable"
+    ],
+    [
+      "person convicted outside india",
+      "shall be dealt with as if he had been convicted by a court in india",
+      "under sub-sections (1) and (2) of ndps act"
+    ],
+    [
+      "solid samples",
+      "should be kept in",
+      "heat sealed plastic bags"
+    ],
+    [
+      "plastic bag",
+      "should be kept in",
+      "paper envelope"
+    ],
+    [
+      "liquid samples",
+      "should be kept in",
+      "leak proof plastic bottle"
+    ],
+    [
+      "plastic bottle",
+      "is further wrapped in",
+      "clean piece of cloth"
+    ],
+    [
+      "drug seized",
+      "should be serially numbered for identification",
+      "each package/containers"
+    ],
+    [
+      "drug in loose form",
+      "should be packed in unit containers of uniform size",
+      "and serial number should be assigned to each package/container"
+    ],
+    [
+      "gross weight",
+      "should be indicated on each package or on a cardboard label with a seal of seizing officer",
+      "total weight, including contents, packaging, etc."
+    ],
+    [
+      "net weight",
+      "should be indicated on each package or on a cardboard label with a seal of seizing officer",
+      "weight of the contents, not including any packaging, etc."
+    ],
+    [
+      "particulars of the drug",
+      "should be indicated on each package or on a cardboard label with a seal of seizing officer",
+      "drug details"
+    ],
+    [
+      "date of seizure",
+      "should be indicated on each package or on a cardboard label with a seal of seizing officer",
+      "date of seizure"
+    ],
+    [
+      "electronic balance or high accuracy balance",
+      "preferably used for weighing",
+      "for accurate weight measurement"
+    ],
+    [
+      "electronic balance",
+      "should be used for weighing",
+      "drug samples"
+    ],
+    [
+      "duplicate sample",
+      "should be marked as",
+      "s-1, s-2, and s-3… on both original and duplicate samples"
+    ],
+    [
+      "original sample",
+      "should be marked as",
+      "s-1, s-2, and s-3… on both original and duplicate samples"
+    ],
+    [
+      "narcotic drug detection kit",
+      "is used for",
+      "detection of ndps drugs"
+    ],
+    [
+      "colour tests",
+      "are compared in",
+      "chart for comparision of colour tests of ndps drugs"
+    ],
+    [
+      "suspected ndps drug",
+      "is screened using",
+      "screening of suspected ndps drug"
+    ],
+    [
+      "ndps drug",
+      "is classified as",
+      "narcotic substance"
+    ],
+    [
+      "drug detection kit",
+      "is supplied by",
+      "narcotic control bureau"
+    ],
+    [
+      "drug detection kit",
+      "has provision for testing",
+      "more drugs"
+    ],
+    [
+      "reagents",
+      "are used in",
+      "testing method of narcotic drug detection kit"
+    ],
+    [
+      "s.o. 1055(e) dated 19-10-2001",
+      "prescribes procedure for",
+      "interpretation of fsl/cfsl/crcl reports"
+    ],
+    [
+      "fsl/cfsl/crcl reports",
+      "are to be interpreted by",
+      "notification of s.o. 1055(e) dated 19-10-2001"
+    ],
+    [
+      "ministry of finance(department of revenue)",
+      "publishes notification",
+      "the gazette of india, extraordinary part-ii- subsection (ii) dated 18th november 2009"
+    ],
+    [
+      "the gazette of india, extraordinary part-ii- subsection (ii) dated 18th november 2009",
+      "defines quantities for",
+      "narcotic drugs and psychotropic substances"
+    ],
+    [
+      "precursor detection kit",
+      "is used for",
+      "detection of precursors"
+    ],
+    [
+      "section 2 ndps act",
+      "defines",
+      "'controlled substances(precursors)' as any substance which the central government may declare to be a controlled substance"
+    ],
+    [
+      "name, age and sex",
+      "is recorded in",
+      "investigation checklist"
+    ],
+    [
+      "educational background",
+      "is noted in",
+      "investigation checklist"
+    ],
+    [
+      "educational details—university/institution",
+      "is documented in",
+      "investigation checklist"
+    ],
+    [
+      "details about the family members",
+      "are collected in",
+      "investigation checklist"
+    ],
+    [
+      "income of the family",
+      "is recorded in",
+      "investigation checklist"
+    ],
+    [
+      "earning members",
+      "are listed in",
+      "investigation checklist"
+    ],
+    [
+      "economic status",
+      "is noted in",
+      "investigation checklist"
+    ],
+    [
+      "commitments of the family (financial)",
+      "are documented in",
+      "investigation checklist"
+    ],
+    [
+      "physical and mental conditions",
+      "are recorded in",
+      "investigation checklist"
+    ],
+    [
+      "details about physical problem",
+      "are collected in",
+      "investigation checklist"
+    ],
+    [
+      "nature of abuser—quiet/irritable/violent",
+      "is noted in",
+      "investigation checklist"
+    ],
+    [
+      "nature and type of drug abused",
+      "is documented in",
+      "investigation checklist"
+    ],
+    [
+      "method of administration",
+      "is recorded in",
+      "investigation checklist"
+    ],
+    [
+      "source of procurement of drug",
+      "is collected in",
+      "investigation checklist"
+    ],
+    [
+      "past history of the abuser about other drugs",
+      "is noted in",
+      "investigation checklist"
+    ],
+    [
+      "initiation of drug abuse",
+      "is documented in",
+      "investigation checklist"
+    ],
+    [
+      "duration of abuse",
+      "is recorded in",
+      "investigation checklist"
+    ],
+    [
+      "frequency of intake",
+      "is noted in",
+      "investigation checklist"
+    ],
+    [
+      "details about other abusers",
+      "are collected in",
+      "investigation checklist"
+    ],
+    [
+      "friend circle of the addict",
+      "is documented in",
+      "investigation checklist"
+    ],
+    [
+      "abuser",
+      "has",
+      "criminal history"
+    ],
+    [
+      "family atmosphere",
+      "influences",
+      "abuser's behavior"
+    ],
+    [
+      "attitude of family members",
+      "affects",
+      "abuser's attitude"
+    ],
+    [
+      "recent history of crime/violence in the family",
+      "indicates",
+      "family dynamics"
+    ],
+    [
+      "place of abuser",
+      "has",
+      "details of drug recovered including its form and quantity"
+    ],
+    [
+      "details of drug recovered",
+      "includes",
+      "form and quantity"
+    ],
+    [
+      "paraphernalia recovered",
+      "includes",
+      "cigarette paper, metal foil, matchboxes, cotton, bloodstained cotton, tourniquets, etc."
+    ],
+    [
+      "money recovered",
+      "includes",
+      "phone numbers, diaries, address books"
+    ],
+    [
+      "other materials used for taking drugs",
+      "includes",
+      "spoon, cotton, etc."
+    ],
+    [
+      "collection of samples of drugs",
+      "requires",
+      "collection by doctor (control samples)"
+    ],
+    [
+      "collection of blood and urine samples",
+      "requires",
+      "collection by doctor (control samples)"
+    ],
+    [
+      "packaging and forwarding of the samples",
+      "requires",
+      "proper documentation"
+    ],
+    [
+      "recording of statements of the addicts",
+      "requires",
+      "proper documentation"
+    ],
+    [
+      "raiding the drug den",
+      "requires",
+      "proper procedure"
+    ],
+    [
+      "drug den",
+      "is run by",
+      "person(s) and associates"
+    ],
+    [
+      "drug den",
+      "sells",
+      "types of drugs"
+    ],
+    [
+      "drug den",
+      "is raided by",
+      "ncb delhi unit"
+    ],
+    [
+      "types of drugs",
+      "are classified as",
+      "substances under ndps act"
+    ],
+    [
+      "ndps act section 8(c)",
+      "mandates",
+      "registration of drug den"
+    ],
+    [
+      "ndps act section 8(c)",
+      "requires",
+      "personal search in presence of gazetted officer during personal search"
+    ],
+    [
+      "addict",
+      "is recorded statement from",
+      "ncb delhi unit"
+    ],
+    [
+      "addict",
+      "receives counseling/treatment/rehabilitation from",
+      "social worker"
+    ],
+    [
+      "accused person",
+      "is arrested by; was arrested by",
+      "ncb delhi unit"
+    ],
+    [
+      "accused person",
+      "undergoes medical examination by",
+      "medical officer"
+    ],
+    [
+      "accused person",
+      "was charged under",
+      "ndps act section 20 and 29"
+    ],
+    [
+      "rajesh kumar",
+      "was arrested by",
+      "ncb delhi unit"
+    ],
+    [
+      "rajesh kumar",
+      "is accused in",
+      "case fir no. 142/2024"
+    ],
+    [
+      "500 grams heroin",
+      "was seized from",
+      "rajesh kumar"
+    ],
+    [
+      "500 grams heroin",
+      "was seized from",
+      "accused person"
+    ],
+    [
+      "500 grams heroin",
+      "was seized from",
+      "rajesh kumar's hideout at andheri"
+    ],
+    [
+      "case fir no. 142/2024",
+      "was filed under",
+      "ndps act section 20 and 29"
+    ],
+    [
+      "andheri railway station",
+      "is recovery location in",
+      "case fir no. 142/2024"
+    ],
+    [
+      "section 8 ndps act",
+      "mandates",
+      "collection, packaging and forwarding of samples of drugs"
+    ],
+    [
+      "section 20 ndps act",
+      "prescribes procedure for",
+      "search of a suspected premises"
+    ],
+    [
+      "clandestine laboratory",
+      "is located at",
+      "isolated house"
+    ],
+    [
+      "clandestine laboratory",
+      "is run by",
+      "persons with criminal history"
+    ],
+    [
+      "persons running the laboratory",
+      "have modus operandi of",
+      "transporting drugs in vehicles"
+    ],
+    [
+      "spot test result",
+      "indicates presence of",
+      "drugs in various forms"
+    ],
+    [
+      "chemicals",
+      "are imported for",
+      "manufactured drugs"
+    ],
+    [
+      "raw materials",
+      "are used in",
+      "manufactured drug production"
+    ],
+    [
+      "precursor chemicals",
+      "are essential for",
+      "manufactured drug synthesis"
+    ],
+    [
+      "money recovery",
+      "pertains to",
+      "financial transactions related to drug trade"
+    ],
+    [
+      "records of financial transactions",
+      "were seized from",
+      "drug traders"
+    ],
+    [
+      "bank deposits",
+      "are linked to",
+      "drug trade activities"
+    ],
+    [
+      "properties",
+      "belonging to",
+      "drug traders were seized"
+    ],
+    [
+      "vehicles used in transporting materials",
+      "were seized by",
+      "law enforcement agencies"
+    ],
+    [
+      "samples of manufactured drugs",
+      "were collected for",
+      "forensic analysis"
+    ],
+    [
+      "criminal history of persons arrested",
+      "is relevant to",
+      "investigation into drug trade"
+    ],
+    [
+      "statements of persons arrested",
+      "are crucial to",
+      "building a case against them"
+    ],
+    [
+      "ndps act section 42(1)",
+      "mandates",
+      "written record of information received"
+    ],
+    [
+      "ndps act section 42(1)",
+      "requires",
+      "search authorization for premises between sunset to sunrise"
+    ],
+    [
+      "proviso to ndps act section 42(1)",
+      "applies to",
+      "search without authorization between sunset to sunrise"
+    ],
+    [
+      "section 42(2) ndps act",
+      "mandates",
+      "copy of documents sent to official superior within 72 hours"
+    ],
+    [
+      "search authorization",
+      "was shown to",
+      "two independent local witnesses"
+    ],
+    [
+      "search authorization",
+      "was signed by",
+      "owner/occupier"
+    ],
+    [
+      "search team",
+      "offered personal search to",
+      "owner/occupier of the premises"
+    ],
+    [
+      "search team",
+      "must include",
+      "lady officer for female searches"
+    ],
+    [
+      "section 50(4) ndps act",
+      "mandates",
+      "presence of female officer during search"
+    ],
+    [
+      "section 50(1) ndps act",
+      "prescribes procedure for",
+      "search before magistrate or gazetted officer"
+    ],
+    [
+      "section 50(6) ndps act",
+      "requires",
+      "copy of documents to be sent to superior within 72 hours"
+    ],
+    [
+      "drug detection kits/precursor testing kits",
+      "were used for",
+      "field testing suspect substances"
+    ],
+    [
+      "ndps/cs (control substances)",
+      "was detected by",
+      "drug detection kits/precursor testing kits"
+    ],
+    [
+      "testing kits",
+      "resulted in showing presence of",
+      "ndps or cs (control substances)"
+    ],
+    [
+      "recovered documents",
+      "were scrutinized/examined to determine relevance to commission of offence and importance to inquiries under the act by",
+      "nicfs"
+    ],
+    [
+      "relevant items liable to seizure and confiscation",
+      "were entered carefully in an inventory and documented in the panchnama by",
+      "nicfs"
+    ],
+    [
+      "goods, documents, articles, things, and assets found relevant to commission of offence and subsequent investigations",
+      "were recovered during search, seizure, and fact of seizure documented in the panchnama by",
+      "nicfs"
+    ],
+    [
+      "representative samples",
+      "were drawn from",
+      "each package or lot of seized substances"
+    ],
+    [
+      "representative samples",
+      "kept in heat-sealed plastic pouches",
+      "in paper envelopes before marking and sealing"
+    ],
+    [
+      "each representative sample",
+      "ensured to be of specified weight",
+      "24 g. each in case of opium, ganja and charas and 5 g. each in case of all others"
+    ],
+    [
+      "packages including representative samples",
+      "properly packed, marked and sealed",
+      "on the spot"
+    ],
+    [
+      "parent package or lot",
+      "marked as p1 and l1",
+      "for easy reference"
+    ],
+    [
+      "seized goods",
+      "were deposited in",
+      "malkhana at the earliest opportunity"
+    ],
+    [
+      "acknowledgement receipt",
+      "was obtained from",
+      "malkhana-in-charge"
+    ],
+    [
+      "director, central revenues control laboratories",
+      "is located at",
+      "pusa, iari campus, new delhi–110012"
+    ],
+    [
+      "joint director, govt. opium and alkaloid works ghajipur (up)",
+      "is laboratory for",
+      "govt. opium and alkaloid works"
+    ],
+    [
+      "chemical examiner, govt. opium and alkaloid works neemuch (mp)",
+      "is responsible for",
+      "chemical examination of seized drugs"
+    ],
+    [
+      "joint director, customs house laboratory chennai–600001",
+      "is laboratory for",
+      "customs department"
+    ],
+    [
+      "joint director, chemical laboratory customs house kolkata–1",
+      "is laboratory for",
+      "customs department"
+    ],
+    [
+      "joint director, new customs house ballard estate mumbai–38",
+      "is laboratory for",
+      "customs department"
+    ],
+    [
+      "joint director, chemical laboratory, customs house, kolkata–1",
+      "is located at",
+      "kolkata"
+    ],
+    [
+      "joint director, new customs house, ballard estate, mumbai–38",
+      "is located at",
+      "mumbai"
+    ],
+    [
+      "joint director, jawahar customs house, nhevasheva (raigarh)",
+      "is located at",
+      "nhevasheva (raigarh)"
+    ],
+    [
+      "chemical examiner, customs house laboratory, customs house, cochin–9",
+      "is located at",
+      "cochin"
+    ],
+    [
+      "chemical examiner, customs c. ex. laboratory, yashkamal bldg., 8th floor, baroda–5",
+      "is located at",
+      "baroda"
+    ],
+    [
+      "chemical examiner, customs house laboratory, vishakhapatnam (ap)",
+      "is located at",
+      "vishakhapatnam"
+    ],
+    [
+      "chemical examiner, customs house laboratory, new kandla (gujarat)",
+      "is located at",
+      "new kandla"
+    ],
+    [
+      "chemical examiner, customs house laboratory, sada, marmagua, goa–403803",
+      "is located at",
+      "sada, marmagua, goa"
+    ],
+    [
+      "chemical examiner, customs house laboratory, assam oil refinery, digboi (assam)",
+      "is located at",
+      "digboi"
+    ],
+    [
+      "chemical examiner, customs house laboratory, barauni oil refinery, barauni, begusarai",
+      "is located at",
+      "barauni"
+    ],
+    [
+      "chemical examiner, hplc refinery, corridor road, trombay, mumbai–400074",
+      "is located at",
+      "trombay"
+    ],
+    [
+      "begusarai",
+      "is location of",
+      "case fir no. 15"
+    ],
+    [
+      "chemical examiner",
+      "is located at",
+      "hplc refinery, corridor road, trombay, mumbai–400074"
+    ],
+    [
+      "central agencies",
+      "may send samples to",
+      "director, central forensic laboratory, new delhi/cfsl, chandigarh/hyderabad/kolkata"
+    ],
+    [
+      "forensic science laboratories, govt. of bihar",
+      "is located at",
+      "patna–800023"
+    ],
+    [
+      "director, police forensic science laboratory, rajasthan",
+      "is located at",
+      "nehru nagar, jaipur–302006"
+    ],
+    [
+      "director, forensic science laboratories, mini punjab sector",
+      "is located at",
+      "plot no. 2, sector 9a, chandigarh"
+    ],
+    [
+      "director, state forensic science laboratory, rasulgarh",
+      "is located at",
+      "bhubaneswar (orissa)"
+    ],
+    [
+      "director, forensic science laboratory, haryana",
+      "is located at",
+      "madhuban (karnal)"
+    ],
+    [
+      "director, forensic science laboratory, andhra pradesh",
+      "is located at",
+      "red hills, hyderabad–4"
+    ],
+    [
+      "director, forensic science laboratory, trivandrum",
+      "is located at",
+      "trivandrum–10"
+    ],
+    [
+      "director, state forensic science laboratory, west bengal",
+      "is located at",
+      "balgachia road, kolkata–37"
+    ],
+    [
+      "director, forensic science laboratory, trivandrum–10",
+      "is located at",
+      "trivandrum–10"
+    ],
+    [
+      "director, state forensic science laboratory, west bengal, balgachia road, kolkata–37",
+      "is located at",
+      "balgachia road, kolkata–37"
+    ],
+    [
+      "director, forensic science laboratory, 5-miller road, om mehalbldg., banglore–560052",
+      "is located at",
+      "5-miller road, om mehalbldg., banglore–560052"
+    ],
+    [
+      "director, forensic science laboratory, assam, kahitapara, guwahati–19",
+      "is located at",
+      "kahitapara, guwahati–19"
+    ],
+    [
+      "director, forensic science laboratory, kamaragarsalai, mylapore, chennai–4",
+      "is located at",
+      "kamaragarsalai, mylapore, chennai–4"
+    ],
+    [
+      "director, forensic science laboratory, gujarat, new mental corner, ahmedabad–380016",
+      "is located at",
+      "new mental corner, ahmedabad–380016"
+    ],
+    [
+      "director, forensic science laboratory, maharashtra, santa cruz (east), mumbai–400098",
+      "is located at",
+      "santa cruz (east), mumbai–400098"
+    ],
+    [
+      "director, forensic science laboratory, civil lines, sager (m.p.) –470001",
+      "is located at",
+      "civil lines, sager (m.p.) –470001"
+    ],
+    [
+      "director, forensic science laboratory, mahanagar, lucknow (u.p.).",
+      "is located at",
+      "mahanagar, lucknow (u.p.)"
+    ],
+    [
+      "director, forensic science laboratory, new delhi.",
+      "is located at",
+      "new delhi"
+    ],
+    [
+      "assistant director, forensic science laboratory, junagarh (gujarat)",
+      "is located at",
+      "junagarh (gujarat)"
+    ],
+    [
+      "chemical examiner of u.p. govt., agra (u.p.).",
+      "is located at",
+      "agra (u.p.)"
+    ],
+    [
+      "director, forensic science laboratory, opposite c.d. hospital, sri nagar (j.k.).",
+      "is located at",
+      "opposite c.d. hospital, sri nagar (j.k.)"
+    ],
+    [
+      "io",
+      "followed up with laboratory for test report",
+      "regularly"
+    ],
+    [
+      "io",
+      "compiled and collated all evidence",
+      "before filing in court"
+    ],
+    [
+      "io",
+      "should ensure that",
+      "crime scene search has been done thoroughly"
+    ],
+    [
+      "io",
+      "should ensure that",
+      "all evidence collected at crime scene is properly packed, labelled and sealed"
+    ],
+    [
+      "io",
+      "should ensure that",
+      "all memos are duly filled in and all other formalities in respect of procedures mandated by the law are completed"
+    ],
+    [
+      "test report",
+      "was received from laboratory",
+      "in time"
+    ],
+    [
+      "investigation",
+      "was completed on time",
+      "at least two weeks before filing complaint"
+    ],
+    [
+      "complaint",
+      "has to be filed within",
+      "180 days (section 36 a (4) of ndps act, 1985 as amended) for large quantity cases and 60 days for other cases"
+    ],
+    [
+      "complaint",
+      "includes all materials, facts and evidence collected during investigation; details of all witnesses are included",
+      "in memo"
+    ],
+    [
+      "complaint",
+      "should include all materials, facts and evidence collected during investigation",
+      "all original documents"
+    ],
+    [
+      "complaint",
+      "should be accompanied by details of all witnesses in the memo",
+      "memo"
+    ],
+    [
+      "non-compliance of section 42 ndps act",
+      "is fatal to prosecution",
+      "prosecution"
+    ],
+    [
+      "non-compliance of section 50 ndps act",
+      "is fatal to prosecution",
+      "prosecution"
+    ],
+    [
+      "information about narcotic drug/psychotropic substance",
+      "should be reduced in writing and sent to superior officer under section 42 of the act",
+      "superior officer"
+    ],
+    [
+      "case property",
+      "must be produced before",
+      "magistrate for attestation"
+    ],
+    [
+      "inventory",
+      "must be prepared and photographs taken in compliance with",
+      "section 52a (2) of the act"
+    ],
+    [
+      "crime scene",
+      "provides highly relevant and useful information for the purpose of investigation including crucial information about",
+      "accused–identity of accused, information about other accused involved"
+    ],
+    [
+      "other accused involved",
+      "are involved in",
+      "unknown"
+    ],
+    [
+      "recovered substance",
+      "is covered under",
+      "ndps act"
+    ],
+    [
+      "substance mixture",
+      "may contain",
+      "one or more narcotic drugs or psychotropic substances"
+    ],
+    [
+      "pure drug content",
+      "does not necessarily indicate",
+      "presence of entire mixture"
+    ],
+    [
+      "synonymous substance",
+      "may be identified as",
+      "another substance mentioned in ndps act"
+    ],
+    [
+      "a.k. bapuly",
+      "wrote",
+      "forensic science: its application in crime investigation"
+    ],
+    [
+      "b.r. sharma",
+      "wrote",
+      "forensic science in criminal investigation and trials"
+    ],
+    [
+      "justice k. kannan.karunalaran mathiharan",
+      "edited",
+      "modi: a textbook of medical jurisprudence and toxicology"
+    ],
+    [
+      "the narcotic drugs and psychotropic substances act, 1985",
+      "mandates",
+      "prosecution under ndps act section 20 and 29"
+    ],
+    [
+      "fsl haryana",
+      "reported",
+      "case fir no. 142/2024"
+    ]
+  ]
+}

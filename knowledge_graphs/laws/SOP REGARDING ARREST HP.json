@@ -1,0 +1,439 @@
+{
+  "triples": [
+    [
+      "section 36-62 bnss 2023",
+      "mandates",
+      "arrest with warrant for cognizable offences"
+    ],
+    [
+      "non-cognizable offence",
+      "requires",
+      "prior written permission from court or officer not below rank of dsp"
+    ],
+    [
+      "offence punishable for imprisonment less than three years",
+      "requires",
+      "prior permission of officer not below rank of dsp for arrest of infirm or above sixty years old person"
+    ],
+    [
+      "cognizable offence",
+      "allows",
+      "arrest without warrant and order from magistrate by police officer"
+    ],
+    [
+      "police officer",
+      "may arrest without warrant",
+      "any person who commits a cognizable offence in presence"
+    ],
+    [
+      "police officer",
+      "may arrest without order from magistrate and warrant",
+      "any person against whom a reasonable complaint has been made or credible information has been received or a reasonable suspicious exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years whether with or without fine"
+    ],
+    [
+      "police officer",
+      "has reason to believe on the basis of such complaint, information, or suspicion",
+      "such person has committed the said offence"
+    ],
+    [
+      "police officer",
+      "is satisfied that such arrest is necessary",
+      "to prevent such person from committing any further offence; or for proper investigation of the offence"
+    ],
+    [
+      "police officer",
+      "is satisfied that such arrest is necessary under",
+      " section 35(1)(a)"
+    ],
+    [
+      "police officer",
+      "is satisfied that such arrest is necessary to prevent evidence from disappearing or tampering with",
+      " section 35(1)(c)"
+    ],
+    [
+      "police officer",
+      "shall record reasons for not making the arrest under",
+      "bnss 2023 section 35(1)(b)"
+    ],
+    [
+      "police officer",
+      "may arrest",
+      "person against whom credible information has been received that he has committed a cognizable offence punishable with imprisonment for a term which may extend to more than seven years"
+    ],
+    [
+      "police officer",
+      "may arrest",
+      "person in whose possession anything is found suspected to be stolen property and who may reasonably be suspected of having committed an offence with reference to such thing"
+    ],
+    [
+      "police officer",
+      "may arrest",
+      "person who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody"
+    ],
+    [
+      "police officer",
+      "may arrest without warrant",
+      "proclaimed offender"
+    ],
+    [
+      "police officer",
+      "may arrest without warrant",
+      "deserter of armed force"
+    ],
+    [
+      "police officer",
+      "shall issue notice for appearance",
+      "person"
+    ],
+    [
+      "police officer",
+      "has power to break open locks of doors and windows to prevent evasion of arrest",
+      "none"
+    ],
+    [
+      "police officer",
+      "has power to search the person arrested and seize articles from him; shall give receipt showing the articles taken from his possession",
+      "arrested person"
+    ],
+    [
+      "police officer",
+      "has power to get medical examination done if believes it is required for investigation or collection of evidence",
+      "section 51 "
+    ],
+    [
+      "police officer",
+      "shall subject the arrested person to be examined by a registered medical practitioner after arrest of person charged with rape or attempt to rape; may use reasonable force as is necessary for such medical examination",
+      "section 52 "
+    ],
+    [
+      "police officer",
+      "shall take reasonable care of health and safety of the arrested person",
+      "section 56 "
+    ],
+    [
+      "police officer",
+      "shall produce before",
+      "magistrate having jurisdiction"
+    ],
+    [
+      "police officer",
+      "must make an entry in diary regarding arrest",
+      "arrest diary"
+    ],
+    [
+      "person",
+      "complies with notice",
+      "shall not be arrested"
+    ],
+    [
+      "person",
+      "has right to inform someone of his arrest",
+      "someone"
+    ],
+    [
+      "arresting officer",
+      "requires sureties for bail",
+      "accused in bailable offence"
+    ],
+    [
+      "arresting officer",
+      "shall bear accurate, visible and clear identification of name",
+      "to facilitate easy identification"
+    ],
+    [
+      "arresting officer",
+      "shall prepare memorandum of arrest (arrest memo)",
+      "as per procedure"
+    ],
+    [
+      "arresting officer",
+      "shall inform the arrestee about his right to meet his lawyer",
+      "at the earliest opportunity"
+    ],
+    [
+      "arresting officer",
+      "shall inform the arrestee about his right to meet his advocate of his choice after arrest and during interrogation.",
+      "sec.38"
+    ],
+    [
+      "arresting officer",
+      "shall inform arrested person about full particulars of the offence for which he is arrested.",
+      "sec.47 bnss"
+    ],
+    [
+      "arresting officer",
+      "can handcuff the accused keeping in view the nature and gravity of the offence.",
+      "sec.20"
+    ],
+    [
+      "arresting officer",
+      "has power to use force necessary for arrest; may cause death if person is involved in offence punishable with death or imprisonment for life",
+      "none"
+    ],
+    [
+      "arresting officer",
+      "must notify",
+      "next friend or relative of arrestee (outside district/town)"
+    ],
+    [
+      "accused",
+      "shall be informed about his right to be released on bail by",
+      "arresting officer"
+    ],
+    [
+      "arrestee",
+      "can nominate any person to be informed of his arrest",
+      "in case of non-availability of family member"
+    ],
+    [
+      "arrestee",
+      "shall be subject to medical examination by registered medical practitioner in the service of state or central government",
+      "registered medical practitioner"
+    ],
+    [
+      "arrestee",
+      "should be examined for injuries upon request",
+      "police officer"
+    ],
+    [
+      "arrestee",
+      "should be subjected to medical examination by",
+      "trained doctor every 48 hours"
+    ],
+    [
+      "arrestee",
+      "may be permitted to meet lawyer during interrogation",
+      "though not throughout the interrogation"
+    ],
+    [
+      "arrested person",
+      "can nominate",
+      "any person to be informed of his arrest"
+    ],
+    [
+      "arrested person",
+      "shall not be detained beyond",
+      "24 hours excluding time of journey"
+    ],
+    [
+      "arrested person",
+      "shall not be discharged without",
+      "bond, bail-bond or special orders of the magistrate"
+    ],
+    [
+      "arrested person",
+      "must be produced before",
+      "the respective court if within 30 kms or nearest executive magistrate/superintendent of police/commissioner of police"
+    ],
+    [
+      "arrested person",
+      "is entitled to inform",
+      "one friend or relative or other person known"
+    ],
+    [
+      "arrested person",
+      "must be made aware of right to inform",
+      "someone about arrest/detention"
+    ],
+    [
+      "habitual or repeat offender",
+      "is a reason to handcuff the accused.",
+      "sec.20(i)"
+    ],
+    [
+      "who escaped from custody",
+      "is a reason to handcuff the accused.",
+      "sec.20(ii)"
+    ],
+    [
+      "organised crime",
+      "is a reason to handcuff the accused.",
+      "sec.20(iii)"
+    ],
+    [
+      "terrorist act",
+      "is a reason to handcuff the accused.",
+      "sec.20(iv)"
+    ],
+    [
+      "drug related crime",
+      "is a reason to handcuff the accused.",
+      "sec.20(v)"
+    ],
+    [
+      "possession of arms and ammunition",
+      "is a reason to handcuff the accused.",
+      "sec.20(vi)"
+    ],
+    [
+      "murder",
+      "is a reason to handcuff the accused.",
+      "sec.20(vii)"
+    ],
+    [
+      "rape",
+      "is a reason to handcuff the accused.",
+      "sec.20(viii)"
+    ],
+    [
+      "acid attack",
+      "is a reason to handcuff the accused.",
+      "sec.20(ix)"
+    ],
+    [
+      "counterfeiting coins and currency notes",
+      "is a reason to handcuff the accused.",
+      "sec.20(x)"
+    ],
+    [
+      "human trafficking",
+      "is a reason to handcuff the accused.",
+      "sec.20(xi)"
+    ],
+    [
+      "person to be arrested",
+      "can enter any place and police officer has power to follow",
+      "none"
+    ],
+    [
+      "offensive weapon",
+      "must be sealed",
+      "none"
+    ],
+    [
+      "offensive weapon",
+      "must be delivered to the court having jurisdiction",
+      "court having jurisdiction"
+    ],
+    [
+      "female arrestee",
+      "her examination of body shall be made only with female medical officer",
+      "female medical officer"
+    ],
+    [
+      "female arrestee",
+      "if no female medical officer is available, her examination of body shall be made by a female registered medical practitioner",
+      "female registered medical practitioner"
+    ],
+    [
+      "officer in-charge of police station",
+      "shall report to",
+      "district magistrate"
+    ],
+    [
+      "escaped person",
+      "may be pursued and arrested in",
+      "any place in india"
+    ],
+    [
+      "escaped person",
+      "can be pursued and arrested by",
+      "any police officer in india"
+    ],
+    [
+      "d.k. basu",
+      "was involved in",
+      "_d.k. basu case"
+    ],
+    [
+      "_d.k. basu case",
+      "resulted in",
+      "guidelines for arrest"
+    ],
+    [
+      "guidelines for arrest",
+      "mandates",
+      "informing the person of his right to a lawyer and family contact"
+    ],
+    [
+      "guidelines for arrest",
+      "mandates",
+      "informing the person of the grounds for arrest"
+    ],
+    [
+      "guidelines for arrest",
+      "mandates",
+      "informing the person of their right to be produced before a magistrate within 24 hours"
+    ],
+    [
+      "section 60 ",
+      "mandates",
+      "special orders of the magistrate"
+    ],
+    [
+      "person in lawful custody",
+      "may escape from",
+      "any place in india"
+    ],
+    [
+      "memo of arrest",
+      "shall be attested by at least one witness",
+      "witness"
+    ],
+    [
+      "memo of arrest",
+      "shall also be counter signed by the arrestee",
+      "arrestee"
+    ],
+    [
+      "memo of arrest",
+      "shall contain the time and date of arrest",
+      "time and date"
+    ],
+    [
+      "police station/interrogation centre/lock up",
+      "holds in custody",
+      "arrested person"
+    ],
+    [
+      "legal aid organisation",
+      "is notified through",
+      "telegraphic message from police station"
+    ],
+    [
+      "inspection memo",
+      "must be signed by both arrestee and police officer",
+      "both arrestee and police officer"
+    ],
+    [
+      "director, health services",
+      "should prepare panel for all tehsils and districts",
+      "concerned state or union territory"
+    ],
+    [
+      "copies of documents",
+      "should be sent to the magistrate",
+      "for his record"
+    ],
+    [
+      "director general of police, himachal pradesh",
+      "directs for strict and meticulous compliance",
+      "of this sop"
+    ],
+    [
+      "director general of police",
+      "sent copy to",
+      "all heads of police offices in hp including sv&acb in hp"
+    ],
+    [
+      "director general of police",
+      "sent copy to",
+      "the jd (prosecution ), phq , hp, shimla"
+    ],
+    [
+      "director general of police",
+      "sent copy to",
+      "the incharge , scrb for uploading on hp police website"
+    ],
+    [
+      "director general of police",
+      "sent copy to",
+      "guard file"
+    ],
+    [
+      "27 sep 2025",
+      "is date of",
+      "copy forwarded"
+    ]
+  ]
+}

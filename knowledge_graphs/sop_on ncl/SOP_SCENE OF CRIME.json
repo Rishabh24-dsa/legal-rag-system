@@ -1,0 +1,769 @@
+{
+  "triples": [
+    [
+      "bureau of police research and development",
+      "published",
+      "guidelines for investigating officers on using the e-sakshya app at the scene of crime"
+    ],
+    [
+      "2025",
+      "is publication year of",
+      "guidelines for investigating officers on using the e-sakshya app at the scene of crime"
+    ],
+    [
+      "e-sakshya application",
+      "was developed by",
+      "nic"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "smartphone with rear camera of at least 12 mp"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "minimum 20% battery charge"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "fully charged power bank"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "at least 5gb free storage"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "strong passwords"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "device encryption"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "camera permission"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "microphone permission"
+    ],
+    [
+      "e-sakshya application",
+      "requires",
+      "geotagging permission"
+    ],
+    [
+      "e-sakshya application",
+      "mandates",
+      "video recording of packaging process"
+    ],
+    [
+      "e-sakshya application",
+      "ensures",
+      "court admissibility requirements"
+    ],
+    [
+      "e-sakshya application",
+      "is used by",
+      "investigating officers (ios)"
+    ],
+    [
+      "e-sakshya application",
+      "digitizes processes for",
+      "evidence collection"
+    ],
+    [
+      "e-sakshya application",
+      "is used by",
+      "ios"
+    ],
+    [
+      "e-sakshya application",
+      "is assistive tool for",
+      "bharatiya nagrik suraksha sanhita, 2023"
+    ],
+    [
+      "e-sakshya application",
+      "simplifies and streamlines work of",
+      "investigating officers under bharatiya nagarik suraksha sanhita, 2023"
+    ],
+    [
+      "investigating officers (10's)",
+      "use",
+      "e-sakshya application"
+    ],
+    [
+      "scene of crime (soc)",
+      "is managed with",
+      "e-sakshya application"
+    ],
+    [
+      "scene of crime (soc)",
+      "should not be altered before",
+      "capturing evidence"
+    ],
+    [
+      "scene of crime (soc)",
+      "was documented with",
+      "e-sakshya app"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita (bnss)",
+      "mandates compliance with",
+      "e-sakshya application"
+    ],
+    [
+      "bharatiya sakshya adhiniyam, 2023 (bsa)",
+      "mandates compliance with",
+      "e-sakshya application"
+    ],
+    [
+      "smartphone",
+      "must not be",
+      "rooted or remotely accessible"
+    ],
+    [
+      "smartphone",
+      "must have",
+      "read and write access to device storage"
+    ],
+    [
+      "smartphone",
+      "must be set to",
+      "india's time zone (gmt+5:30)"
+    ],
+    [
+      "smartphone",
+      "must activate; should enable",
+      "do not disturb mode"
+    ],
+    [
+      "smartphone",
+      "requires",
+      "sufficient battery"
+    ],
+    [
+      "smartphone",
+      "should have",
+      "power bank"
+    ],
+    [
+      "smartphone",
+      "needs",
+      "5gb storage"
+    ],
+    [
+      "smartphone",
+      "must be secured with",
+      "6-digit mpin"
+    ],
+    [
+      "smartphone",
+      "should use",
+      "encryption"
+    ],
+    [
+      "io tool kit",
+      "contains",
+      "gloves"
+    ],
+    [
+      "io tool kit",
+      "requires",
+      "personal protective equipment (ppe) including masks and shoe covers"
+    ],
+    [
+      "io tool kit",
+      "includes",
+      "fluorescent barrier tape with 'crime scene - do not cross,' text"
+    ],
+    [
+      "io tool kit",
+      "has",
+      "evidence markers"
+    ],
+    [
+      "io tool kit",
+      "contains",
+      "notebook"
+    ],
+    [
+      "io tool kit",
+      "requires",
+      "pen"
+    ],
+    [
+      "io tool kit",
+      "includes",
+      "measuring tape"
+    ],
+    [
+      "io tool kit",
+      "includes",
+      "ruler or scale"
+    ],
+    [
+      "io tool kit",
+      "has",
+      "sterile swabs"
+    ],
+    [
+      "io tool kit",
+      "has",
+      "forceps"
+    ],
+    [
+      "io tool kit",
+      "contains",
+      "paper and plastic evidence bags"
+    ],
+    [
+      "io tool kit",
+      "requires",
+      "sterlized containers for biological evidence"
+    ],
+    [
+      "io tool kit",
+      "includes",
+      "tamper-proof labels and seals"
+    ],
+    [
+      "io tool kit",
+      "requires",
+      "flaslight"
+    ],
+    [
+      "io tool kit",
+      "has",
+      "portable led light flashlight batteries"
+    ],
+    [
+      "io tool kit",
+      "includes",
+      "tripod for stable photography / videography"
+    ],
+    [
+      "scene of crime",
+      "requires",
+      "safety assessment before documentation"
+    ],
+    [
+      "scene of crime",
+      "is located at",
+      "defined boundaries"
+    ],
+    [
+      "hazards (gasoline, chemical smells, biological risks)",
+      "are assessed by",
+      "specialized agencies"
+    ],
+    [
+      "clandestine lab or radiological threat",
+      "is suspected to be present at",
+      "scene of crime"
+    ],
+    [
+      "crime scene",
+      "was cordoned off by",
+      "fluorescent barrier tape"
+    ],
+    [
+      "crime scene",
+      "is assessed by; has scope and condition determined by; is documented using e-sakshya application by",
+      "investigating officers"
+    ],
+    [
+      "authorized personnel only",
+      "are allowed to access",
+      "crime scene"
+    ],
+    [
+      "staff",
+      "were deployed at entry/exit points of",
+      "crime scene"
+    ],
+    [
+      "ppe",
+      "was worn by",
+      "staff to prevent contamination"
+    ],
+    [
+      "walkthrough",
+      "was conducted by",
+      "staff to identify focal points of potential evidence"
+    ],
+    [
+      "potential evidence",
+      "includes transient evidence found in",
+      "crime scene"
+    ],
+    [
+      "investigating officers",
+      "must conduct",
+      "systematic initial assessment"
+    ],
+    [
+      "investigating officers",
+      "conduct",
+      "overall survey of the crime scene"
+    ],
+    [
+      "authorized personnel",
+      "must follow path of entry and exit established by; are restricted to defined area by",
+      "investigating officers"
+    ],
+    [
+      "scene boundaries",
+      "are determined by",
+      "investigating officers"
+    ],
+    [
+      "fsl team",
+      "is responsible for",
+      "cases of heinous crimes"
+    ],
+    [
+      "fsl team",
+      "should be contacted by",
+      "investigating officers (l1os) for non-heinous crimes"
+    ],
+    [
+      "e-sakshya mobile application",
+      "must be used by",
+      "investigating officers (l1os) to capture photos and videos of the scene of crime (soc)"
+    ],
+    [
+      "overall shot",
+      "should depict",
+      "entire soc layout using overlapping shots"
+    ],
+    [
+      "mid-range shot",
+      "should show",
+      "relationship between evidence items at 90 degree"
+    ],
+    [
+      "close-up shot",
+      "should capture",
+      "evidence detailed views with scales for photographs"
+    ],
+    [
+      "transient evidence",
+      "should be prioritized by",
+      "investigating officers (l1os) for immediate recording"
+    ],
+    [
+      "dead body",
+      "was documented by",
+      "police officer"
+    ],
+    [
+      "position of dead body",
+      "was recorded to show",
+      "injuries and marks"
+    ],
+    [
+      "ligature marks",
+      "were documented on",
+      "dead body"
+    ],
+    [
+      "cuts",
+      "were observed on",
+      "dead body"
+    ],
+    [
+      "saliva dribbling",
+      "was noted on",
+      "dead body"
+    ],
+    [
+      "bite marks",
+      "were recorded on",
+      "dead body"
+    ],
+    [
+      "nail scrapings",
+      "were collected from",
+      "dead body"
+    ],
+    [
+      "weapon near dead body",
+      "established context and victim connections by showing relationship between",
+      "dead body and weapon"
+    ],
+    [
+      "document physical evidence found",
+      "is related to",
+      "crime scene"
+    ],
+    [
+      "dustbins, trash, or washbasins",
+      "are locations where",
+      "physical evidence is often found"
+    ],
+    [
+      "record the placement of evidence",
+      "mandates",
+      "soc layout documentation before moving items"
+    ],
+    [
+      "capture marks on the dead body",
+      "requires",
+      "photographic documentation in original state"
+    ],
+    [
+      "document blood patterns from multiple angles",
+      "mandates",
+      "identification of weapon types from stain patterns where possible"
+    ],
+    [
+      "record evidence on optical surfaces",
+      "requires",
+      "attention to detail for documentation"
+    ],
+    [
+      "capture trace evidence",
+      "requires",
+      "close-up focus for documentation"
+    ],
+    [
+      "record the sealing of exhibits for forensic analysis",
+      "mandates",
+      "ensuring integrity of chain of custody"
+    ],
+    [
+      "e-sakshya app",
+      "automatically captures",
+      "date, time, and geolocation"
+    ],
+    [
+      "investigating officers (io's)",
+      "must pack and label physical evidence",
+      "meticulously"
+    ],
+    [
+      "physical evidence",
+      "must be packed to ensure integrity for forensic analysis",
+      "and court submission"
+    ],
+    [
+      "packaging process",
+      "must be recorded using e-sakshya application",
+      "to ensure transparency"
+    ],
+    [
+      "packaging process",
+      "is documented in",
+      "case diary"
+    ],
+    [
+      "chain of custody",
+      "must be maintained through e-sakshya application",
+      "for reliable evidence handling"
+    ],
+    [
+      "chain of custody",
+      "is maintained through",
+      "e-sakshya application"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita, 2023",
+      "mandates reliable evidence handling",
+      "through e-sakshya application"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita, 2023",
+      "mandates",
+      "compliance with e-sakshya application"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita, 2023",
+      "mandates the use of",
+      "e-sakshya application"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita, 2023",
+      "mandates",
+      "standardizes evidence recording across states"
+    ],
+    [
+      "blood",
+      "is collected using",
+      "gauze pads"
+    ],
+    [
+      "blood",
+      "is packed in",
+      "paper envelopes"
+    ],
+    [
+      "hair/fibers",
+      "are collected using",
+      "forceps"
+    ],
+    [
+      "hair/fibers",
+      "are stored in",
+      "glazed paper"
+    ],
+    [
+      "weapons",
+      "are secured with",
+      "strings to boards"
+    ],
+    [
+      "weapons",
+      "are packed in",
+      "boxes for rust prevention"
+    ],
+    [
+      "investigating officer",
+      "uses",
+      "e-sakshya application"
+    ],
+    [
+      "new sakshya",
+      "is used for",
+      "crime scene visit"
+    ],
+    [
+      "crime scene visit",
+      "is mandatory for",
+      "offenses with 7 years or above punishment under bharatiya nagarik suraksha sanhita, 2023 section 176(3)"
+    ],
+    [
+      "search and seizure",
+      "is governed by",
+      "bharatiya nagarik suraksha sanhita, 2023 section 105"
+    ],
+    [
+      "search",
+      "is governed by",
+      "bharatiya nagarik suraksha sanhita, 2023 section 185"
+    ],
+    [
+      "fir registration",
+      "is governed by",
+      "bharatiya nagarik suraksha sanhita, 2023 section 173 for disabled victims of crimes such as rape or molestation at their preferred location"
+    ],
+    [
+      "custody and disposal of property",
+      "is governed by",
+      "bharatiya nagarik suraksha sanhita, 2023 section 497 for perishable / sealed property disposal"
+    ],
+    [
+      "statement recording",
+      "is governed by",
+      "bharatiya nagarik suraksha sanhita, 2023 section 180 for witness/victim statements"
+    ],
+    [
+      "fir to be assigned later",
+      "is status of fir",
+      "not yet registered"
+    ],
+    [
+      "case fir no. 142/2024",
+      "was filed under",
+      " section 20 and 29"
+    ],
+    [
+      "section 63(4)c bharatiya nagarik suraksha sanhita, 2023",
+      "mandates",
+      "hash values generation for uploaded evidence"
+    ],
+    [
+      "evidence to be uploaded",
+      "requires",
+      "date, time, and geolocation recording"
+    ],
+    [
+      "sakshya id (sid)",
+      "is generated from",
+      "freeze the evidence"
+    ],
+    [
+      "e-sakshya portal",
+      "provides access to",
+      "evidence uploaded through"
+    ],
+    [
+      "cctns homepage",
+      "provides access to",
+      "evidence uploaded through"
+    ],
+    [
+      "digilocker-registered mobile number and otp",
+      "required for login",
+      "e-sakshya portal"
+    ],
+    [
+      "fir with sakshya",
+      "option for viewing evidence",
+      "e-sakshya portal"
+    ],
+    [
+      "pending sakshya for linking",
+      "option for viewing evidence",
+      "e-sakshya portal"
+    ],
+    [
+      "marked for deletion",
+      "option for viewing evidence",
+      "e-sakshya portal"
+    ],
+    [
+      "videos",
+      "type of evidence viewable on",
+      "e-sakshya portal"
+    ],
+    [
+      "photos",
+      "type of evidence viewable on",
+      "e-sakshya portal"
+    ],
+    [
+      "certificates",
+      "type of evidence viewable on",
+      "e-sakshya portal"
+    ],
+    [
+      "fir number",
+      "is linked to",
+      "pending evidence"
+    ],
+    [
+      "ncb delhi unit",
+      "mandates",
+      "cctns integration"
+    ],
+    [
+      "io",
+      "should manually note",
+      "additional details in e-sakshya app description field or case diary"
+    ],
+    [
+      "io",
+      "should include",
+      "e-sakshya app usage details in case diary"
+    ],
+    [
+      "bharatiya sakshya adhiniyam, 2023",
+      "prescribes procedures for",
+      "evidence recording and storage"
+    ],
+    [
+      "bharatiya sakshya adhiniyam, 2023",
+      "mandates",
+      "admissibility of photographs and videos in court"
+    ],
+    [
+      "ios",
+      "can record videos up to",
+      "1 hour using e-sakshya application"
+    ],
+    [
+      "smartphones",
+      "are used with",
+      "e-sakshya application for recording evidence"
+    ],
+    [
+      "section 105 bharatiya sakshya adhiniyam",
+      "mandates",
+      "evidence preservation"
+    ],
+    [
+      "section 176 bharatiya sakshya adhiniyam",
+      "mandates",
+      "procedural errors minimization"
+    ],
+    [
+      "section 185 bharatiya sakshya adhiniyam",
+      "mandates",
+      "consistent framework simplification"
+    ],
+    [
+      "bharatiya sakshya adhiniyam section 63",
+      "generates certificate with",
+      "hash values and io details"
+    ],
+    [
+      "evidence app",
+      "provides real-time access to",
+      "evidence"
+    ],
+    [
+      "mini statement",
+      "enables quick review of",
+      "evidence"
+    ],
+    [
+      "icjs portal",
+      "allows for",
+      "quick review of evidence"
+    ],
+    [
+      "e-sakshya",
+      "requires",
+      "latest version"
+    ],
+    [
+      "e-sakshya",
+      "mandates",
+      "daily login"
+    ],
+    [
+      "e-sakshya",
+      "mandates",
+      "strong network connectivity"
+    ],
+    [
+      "audio/video recording",
+      "must have",
+      "proper light/clear sound"
+    ],
+    [
+      "pending sids",
+      "should be uploaded",
+      "on the same day of recording"
+    ],
+    [
+      "police station",
+      "must have",
+      "master trainer for e-sakshya"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita",
+      "mandates",
+      "soc visit in cases punishable with 7 year or more imprisonment"
+    ],
+    [
+      "section 176(3) crpc",
+      "is replaced by",
+      "section 176 bnss"
+    ],
+    [
+      "section 105 bnss",
+      "requires",
+      "recording of search and seizure provision through audio video electronic means"
+    ],
+    [
+      "section 161 crpc",
+      "is replaced by",
+      "section 180 bnss"
+    ],
+    [
+      "section 165 crpc",
+      "is replaced by",
+      "section 185 bnss"
+    ]
+  ]
+}

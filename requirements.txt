@@ -1,0 +1,21 @@
+# Core web framework and server
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# HTTP client for calling Ollama (local LLM)
+httpx==0.27.2
+
+# Environment variable management
+python-dotenv==1.0.1
+
+# Rate limiting middleware
+slowapi==0.1.9
+
+# BM25 search algorithm
+rank-bm25==0.2.2
+
+# Data validation (used in models.py)
+pydantic==2.8.2
+
+# For converting pickle (NetworkX graphs) to JSON triples (optional)
+networkx==3.3

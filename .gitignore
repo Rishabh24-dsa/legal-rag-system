@@ -1,0 +1,16 @@
+# Environments
+.venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / tool cruft
+tempCodeRunnerFile.py
+.vscode/
+
+# Generated at runtime
+knowledge_graphs/metadata.json

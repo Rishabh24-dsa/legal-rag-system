@@ -1,0 +1,229 @@
+{
+  "triples": [
+    [
+      "investigating officer",
+      "must mention",
+      "vehicle registration number in gd of police station"
+    ],
+    [
+      "investigating officer",
+      "must mention",
+      "vehicle registration number in cd file"
+    ],
+    [
+      "investigating officer",
+      "should mention",
+      "vehicle colour in seizure memo"
+    ],
+    [
+      "investigating officer",
+      "must note",
+      "type of vehicle used for raid purpose"
+    ],
+    [
+      "investigating officer",
+      "must identify",
+      "driver of the vehicle used for raid"
+    ],
+    [
+      "vehicle",
+      "had registration number",
+      "abc123"
+    ],
+    [
+      "vehicle",
+      "was of colour",
+      "blue"
+    ],
+    [
+      "rahul kumar",
+      "was driving; is owner of",
+      "vehicle"
+    ],
+    [
+      "rahul kumar",
+      "tried to run away and was chased by",
+      "inspector singh up to 1 km distance"
+    ],
+    [
+      "police station",
+      "is located at a distance of",
+      "5 km from place of recovery"
+    ],
+    [
+      "police party",
+      "followed route",
+      "main road to reach the place of occurrence"
+    ],
+    [
+      "police party",
+      "reached police station after completing requisite formalities at the spot",
+      "45"
+    ],
+    [
+      "ruqa",
+      "was scribed by",
+      "unknown"
+    ],
+    [
+      "ruqa",
+      "was taken to",
+      "police station"
+    ],
+    [
+      "io",
+      "sent ruqa to police station for registration of fir at; took how much time to prepare each document including the statement of witnesses also",
+      "time"
+    ],
+    [
+      "io",
+      "narrated the sequence in which the documents were prepared",
+      "documents"
+    ],
+    [
+      "io",
+      "prepared",
+      "memos"
+    ],
+    [
+      "io",
+      "prepared",
+      "statements of recovery witnesses"
+    ],
+    [
+      "io",
+      "received seal from recovery witness and at what time",
+      "50"
+    ],
+    [
+      "fir",
+      "was registered after receiving back the copy of",
+      "time"
+    ],
+    [
+      "weights and scales",
+      "were issued from",
+      "department"
+    ],
+    [
+      "weights and scales",
+      "were purchased from",
+      "unknown"
+    ],
+    [
+      "bill of purchase",
+      "is available with",
+      "io"
+    ],
+    [
+      "accused",
+      "suffered disclosure statement during investigation at",
+      "time"
+    ],
+    [
+      "witness",
+      "was called on the spot to whom intimation regarding arrest of accused was given; had their signatures obtained in the police station",
+      "police station"
+    ],
+    [
+      "fir no.",
+      "was mentioned in memos because it was filled after the receipt of fir",
+      "police station"
+    ],
+    [
+      "site plan by io",
+      "has clear directions",
+      "true"
+    ],
+    [
+      "sequence of documents and time taken to prepare each document",
+      "is as follows",
+      "not specified"
+    ],
+    [
+      "documents are in different ink",
+      "reason for this is",
+      "not specified"
+    ],
+    [
+      "case property",
+      "was produced before sho",
+      "46"
+    ],
+    [
+      "case property",
+      "deposited with mhc by sho",
+      "51"
+    ],
+    [
+      "case property",
+      "produced before magistrate",
+      "52"
+    ],
+    [
+      "case property",
+      "re-deposited with mhc after producing before magistrate",
+      "53"
+    ],
+    [
+      "case property",
+      "was produced before",
+      "magistrate"
+    ],
+    [
+      "case property",
+      "was re-deposited with",
+      "mhc"
+    ],
+    [
+      "sho's seal",
+      "has metal of",
+      "48"
+    ],
+    [
+      "sho's seal",
+      "is issued from department",
+      "49"
+    ],
+    [
+      "entries were made in relevant register and gd (roznamcha)",
+      "has been done by",
+      "io"
+    ],
+    [
+      "owner of vehicle",
+      "has been arrayed as an accused by",
+      "io"
+    ],
+    [
+      "case property i.e contraband and vehicle, if any",
+      "was produced in the court at the time of recording of evidence",
+      "court"
+    ],
+    [
+      "source of light when recovery was effected after sunset",
+      "was",
+      "unknown"
+    ],
+    [
+      "recovery witness",
+      "handed over seal to",
+      "io"
+    ],
+    [
+      "fir endorsement",
+      "should mention",
+      "person to whom seal belongs"
+    ],
+    [
+      "gd",
+      "should mention",
+      "person to whom seal is handed over"
+    ],
+    [
+      "statement of recovery witness",
+      "should be recorded under",
+      "section 180 bnss (previously section 161 cr.pc)"
+    ]
+  ]
+}

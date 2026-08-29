@@ -1,0 +1,304 @@
+{
+  "triples": [
+    [
+      "the bharatiya nyaya sanhita, 2023",
+      "replaces",
+      "indian penal code, 1861"
+    ],
+    [
+      "the bharatiya nagarik suraksha sanhita, 2023",
+      "replaces",
+      "criminal procedure code, 1973"
+    ],
+    [
+      "the bharatiya sakshya adhiniyam, 2023",
+      "replaces",
+      "indian evidence act, 1872"
+    ],
+    [
+      "zero fir sop",
+      "mandates",
+      "filing of zero fir under bnss-2023"
+    ],
+    [
+      "e-fir sop",
+      "requires",
+      "registration on e-fir portal under bnss-2023"
+    ],
+    [
+      "investigation officers",
+      "are required to follow",
+      "sops regarding zero fir and e-fir under bnss-2023"
+    ],
+    [
+      "bharatiya nagarik suraksha sanhita (bnss) 2023",
+      "mandates",
+      "registration of first information report in cognizable offence"
+    ],
+    [
+      "section 173 bnss",
+      "applies to",
+      "zero fir registration"
+    ],
+    [
+      "section 173 bnss",
+      "mandates",
+      "reduction of oral information into written form"
+    ],
+    [
+      "section 154 crpc",
+      "is replaced by",
+      "section 173 bnss"
+    ],
+    [
+      "station house officers (shos)",
+      "are responsible for",
+      "fir registration and management"
+    ],
+    [
+      "investigating officers",
+      "are responsible for",
+      "efficient handling of complaints"
+    ],
+    [
+      "administrative staff",
+      "are responsible for",
+      "transparent and accountable system for fir management"
+    ],
+    [
+      "complainant",
+      "approached",
+      "any police station"
+    ],
+    [
+      "complainant",
+      "shall be given a copy of information recorded",
+      "free of cost"
+    ],
+    [
+      "complainant",
+      "submitted a complaint about",
+      "cognizable offence"
+    ],
+    [
+      "sho/officer on duty",
+      "shall record details in zero fir register",
+      "zero fir register"
+    ],
+    [
+      "sho/officer on duty",
+      "shall register case as zero fir or 'o' fir",
+      "relevant sections of law"
+    ],
+    [
+      "section 173(2) bnss",
+      "mandates",
+      "free information to informant or victim"
+    ],
+    [
+      "informant/victim",
+      "is entitled to",
+      "free copy of recorded information under section 173(2) bnss"
+    ],
+    [
+      "zero fir",
+      "may be followed by",
+      "preliminary investigation by investigating officer"
+    ],
+    [
+      "zero fir",
+      "is forwarded to",
+      "police station having jurisdiction over place of incident"
+    ],
+    [
+      "preliminary investigation",
+      "involves",
+      "medical examination of rape victim and spot preservation"
+    ],
+    [
+      "investigating officer",
+      "conducts",
+      "preliminary investigation without waiting for concerned police station to take over"
+    ],
+    [
+      "police station with jurisdiction",
+      "receives",
+      "zero fir and re-registers as regular fir"
+    ],
+    [
+      "regular fir",
+      "involves",
+      "re-registration by concerned police station in their records"
+    ],
+    [
+      "sho",
+      "shall assign fir to",
+      "investigating officer"
+    ],
+    [
+      "regular updates on the investigation",
+      "be provided to",
+      "complainant"
+    ],
+    [
+      "o/sho",
+      "may act as complainant if",
+      "complainant's contact details are not available"
+    ],
+    [
+      "sho/mhc",
+      "shall take on record",
+      "complaint signed by person giving complaint"
+    ],
+    [
+      "sho/mhc",
+      "shall assign investigating officer",
+      "after signing complaint"
+    ],
+    [
+      "e complaint",
+      "is related to",
+      "heinous offence"
+    ],
+    [
+      "police officer",
+      "will visit spot immediately",
+      "after verification of e complaint"
+    ],
+    [
+      "police officer",
+      "shall consider nature and gravity of offence",
+      "before taking action"
+    ],
+    [
+      "police officer",
+      "shall record such information",
+      "at the residence of the person seeking to report such offence or at a convenient place of such person's choice"
+    ],
+    [
+      "police officer",
+      "shall videograph the recording",
+      "the recording of such information shall be videographed"
+    ],
+    [
+      "police officer",
+      "shall get statement recorded by",
+      "magistrate under clause (a) of sub-section (6) of section 183"
+    ],
+    [
+      "fir",
+      "be registered as per provisions",
+      "without waiting for complainant or signatures"
+    ],
+    [
+      "section 173(3) bnss",
+      "mandates",
+      "prior permission from deputy superintendent of police"
+    ],
+    [
+      "officer-in-charge of police station",
+      "may take action with prior permission",
+      "deputy superintendent of police"
+    ],
+    [
+      "oral information",
+      "shall be reduced to writing by",
+      "officer in charge of police station"
+    ],
+    [
+      "officer in charge of police station",
+      "may proceed with preliminary enquiry",
+      "with prior permission from deputy superintendent of police"
+    ],
+    [
+      "officer in charge of police station",
+      "may proceed with investigation",
+      "when there exists a prima facie case"
+    ],
+    [
+      "written information",
+      "shall be signed by",
+      "person giving it"
+    ],
+    [
+      "officer",
+      "shall take on record",
+      "information signed within three days"
+    ],
+    [
+      "information",
+      "shall be entered in book",
+      "kept by such officer"
+    ],
+    [
+      "book",
+      "shall be kept in form",
+      "prescribed by state government"
+    ],
+    [
+      "woman police officer",
+      "shall record information",
+      "given by woman against whom offence is alleged"
+    ],
+    [
+      "person",
+      "is temporarily or permanently mentally or physically disabled",
+      "in the event that the person against whom an offence under section 64, section 65, section 66, section 67, section 68, section 69, section 70, section 71, section 74, section 75, section 76, section 77, section 78, section 79 or section 124 of the bharatiya nyaya sanhita, 2023 is alleged to have been committed or attempted"
+    ],
+    [
+      "interpreter/special educator",
+      "shall be present during recording",
+      "in the presence of an interpreter or a special educator, as the case may be"
+    ],
+    [
+      "magistrate",
+      "shall get the statement recorded",
+      "under clause (a) of sub-section (6) of section 183 as soon as possible"
+    ],
+    [
+      "informant or victim",
+      "shall be given copy of information",
+      "free of cost, to the informant or the victim"
+    ],
+    [
+      "any person",
+      "may send information to",
+      "superintendent of police concerned"
+    ],
+    [
+      "any person",
+      "may make application to magistrate",
+      "if aggrieved by refusal to record information"
+    ],
+    [
+      "superintendent of police concerned",
+      "shall investigate or direct investigation by subordinate officer",
+      "in manner provided by this sanhita"
+    ],
+    [
+      "subordinate police officer",
+      "shall have all powers of an officer in charge of the police station",
+      "in relation to that offence"
+    ],
+    [
+      "ashok tewari",
+      "is director general of police in",
+      "himachal pradesh"
+    ],
+    [
+      "ashok tewari",
+      "forwarded copy for favour of information and necessary action to",
+      "all heads of police offices in hp including sv&acb in hp"
+    ],
+    [
+      "bnss section 173(2)",
+      "mandates",
+      "copy of information to be given to informant or victim"
+    ],
+    [
+      "copy of fir",
+      "shall be provided to",
+      "complainant"
+    ]
+  ]
+}
